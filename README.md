@@ -16,14 +16,14 @@
  	<a href="https://twitter.com/feliquisds">
 	<picture>
         	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/69882733-4c19-41c7-b1ff-06c1e36fe954">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b5945e7f-d97a-4a7b-82aa-e720a01f90a1">
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b5945e7f-d97a-4a7b-82aa-e720a01f90a1">
         	<img alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/69882733-4c19-41c7-b1ff-06c1e36fe954" width="49">
     	</picture>
 	</a>&nbsp;
  	<a href="https://youtube.com/@feliquisds">
 	<picture>
         	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/91a68dd4-94c8-4661-a25e-881f0cfb73d0">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8ab4a2ae-2bad-41c3-9fe5-cf3524e5e33c">
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8ab4a2ae-2bad-41c3-9fe5-cf3524e5e33c">
         	<img alt="YouTube" title="YouTube" src="https://github.com/user-attachments/assets/91a68dd4-94c8-4661-a25e-881f0cfb73d0" width="49">
     	</picture>
 	</a>
