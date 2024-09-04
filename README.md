@@ -13,11 +13,11 @@
         	<img alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/82311be2-ce33-4092-8819-1235d2352665" width="49">
     	</picture>
 	</a>&nbsp;
- 	<a href="https://twitter.com/feliquisds">
+ 	<a href="https://bsky.app/profile/feliquisds.bsky.social">
 	<picture>
-        	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/69882733-4c19-41c7-b1ff-06c1e36fe954">
-		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b5945e7f-d97a-4a7b-82aa-e720a01f90a1">
-        	<img alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/69882733-4c19-41c7-b1ff-06c1e36fe954" width="49">
+        	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98070fa0-8dc1-46d8-9480-7aba07aa3fa2">
+		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/484e088d-0bef-49d0-9123-011380ba7834">
+        	<img alt="Bluesky" title="Bluesky" src="https://github.com/user-attachments/assets/98070fa0-8dc1-46d8-9480-7aba07aa3fa2" width="49">
     	</picture>
 	</a>&nbsp;
  	<a href="https://youtube.com/@feliquisds">
