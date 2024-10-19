@@ -13,7 +13,7 @@
         	<img alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/82311be2-ce33-4092-8819-1235d2352665" width="49">
     	</picture>
 	</a>&nbsp;
- 	<a href="https://bsky.app/profile/feliquisds.bsky.social">
+ 	<a href="https://bsky.app/profile/feliquisds.gay">
 	<picture>
         	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98070fa0-8dc1-46d8-9480-7aba07aa3fa2">
 		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/484e088d-0bef-49d0-9123-011380ba7834">
