@@ -1,11 +1,4 @@
 <div align="right">
-	<a rel="me" href="https://wetdry.world/@feliquisds">
-	<picture>
-        	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95980100-c590-4d4e-8bdb-54307b05db31">
-		<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9e6de7a5-1bab-4b1c-a02b-f7dcf841676a">
-        	<img alt="Mastodon" title="Mastodon" src="https://github.com/user-attachments/assets/95980100-c590-4d4e-8bdb-54307b05db31" width="49">
-    	</picture>
-	</a>&nbsp;
 	<a href="https://instagram.com/feliquisds">
 	<picture>
         	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/82311be2-ce33-4092-8819-1235d2352665">
